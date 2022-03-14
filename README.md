@@ -1,3 +1,21 @@
+多云基础设施编排工具Terraform,重点解决公有云厂商的软硬件（基础）资源构建的问题。 公司最近用上了terraform, 新建服务, 更改配置, 增加SG都要通过他进行.
+
+terraform是个什么东西呢? 想一下, 其实就是在各个云平台提供的API只上, 搞出来一个抽象层.
+
+Terraform的生态环境到了今天，已经发展为三个分支，分别是：
+1）开源版
+2）Terraform Cloud云服务版
+3）Terraform企业版
+
+更多资料参考： http://registry.terraform.io/browse/providers https://lonegunmanb.github.io/introduction-terraform/
+![图片](https://user-images.githubusercontent.com/2436384/158143039-bbb632d5-7301-46e1-9590-ed6e5c7da266.png)
+
+![图片](https://user-images.githubusercontent.com/2436384/158143092-914a6cd4-faf6-4201-9f93-9d1ecb4888d7.png)
+
+![图片](https://user-images.githubusercontent.com/2436384/158143118-3b904a95-469a-41fe-9fc2-3597e07861df.png)
+
+
+
 > 《Terraform 101 从入门到实践》这本书只将在[南瓜慢说官方网站](https://www.pkslow.com/tags/terraform101)和[GitHub](https://github.com/LarryDpk/terraform-101)两个地方同步更新，如果你在其它地方看到，那应该就是抄袭和未授权的转载。书中的示例代码也是放在GitHub上，方便大家参考查看。
 
 ---
