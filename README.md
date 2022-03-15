@@ -9,6 +9,8 @@ Terraform的生态环境到了今天，已经发展为三个分支，分别是�
 
 更多资料参考： 
 http://registry.terraform.io/browse/providers 
+
+
 https://lonegunmanb.github.io/introduction-terraform/
 
 
