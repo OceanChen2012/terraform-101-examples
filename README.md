@@ -7,7 +7,11 @@ Terraform的生态环境到了今天，已经发展为三个分支，分别是�
 2）Terraform Cloud云服务版
 3）Terraform企业版
 
-更多资料参考： http://registry.terraform.io/browse/providers https://lonegunmanb.github.io/introduction-terraform/
+更多资料参考： 
+http://registry.terraform.io/browse/providers 
+https://lonegunmanb.github.io/introduction-terraform/
+
+
 ![图片](https://user-images.githubusercontent.com/2436384/158143039-bbb632d5-7301-46e1-9590-ed6e5c7da266.png)
 
 ![图片](https://user-images.githubusercontent.com/2436384/158143092-914a6cd4-faf6-4201-9f93-9d1ecb4888d7.png)
